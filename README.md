@@ -1,2 +1,2 @@
-# Amazon-clone-front-end-web-application-
-Developed an Amazon clone using HTML and CSS to replicate the front-end design. Used Visual Studio Code (VSCode) for efficient coding and project management. Emphasized responsive layout and clean UI to deliver an engaging user experience.
+# AMAZON-CLONE-FRONT-END-WEB-APPLICATION
+*Developed an Amazon clone using HTML and CSS to replicate the front-end design and functionality. Utilized Visual Studio Code (VSCode) for efficient coding, debugging, and project management. Focused on creating a responsive and visually appealing interface to enhance user experience.
